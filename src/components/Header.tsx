@@ -47,7 +47,7 @@ const Header = () => {
         <div className="flex items-center gap-4 min-[1400px]:gap-6">
           <Link href="/" className="text-2xl font-bold hidden md:block">
             <Image
-              src="/images/logo.svg"
+              src="/images/Logo.svg"
               alt="Kuadratik Logo"
               width={150}
               height={40}
@@ -56,7 +56,7 @@ const Header = () => {
 
           <Link href="/" className="text-2xl font-bold block md:hidden">
             <Image
-              src="/images/logo.svg"
+              src="/images/Logo.svg"
               alt="Kuadratik Logo"
               width={100}
               height={30}
